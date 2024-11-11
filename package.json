@@ -1,0 +1,18 @@
+{
+  "name": "l3-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haneesh0509",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.1",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
